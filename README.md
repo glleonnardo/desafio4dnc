@@ -1,4 +1,4 @@
-# Portifolio Gabriel D. Faria
+# Portifolio Leonardo Giampaulo
 
 link do site disponibilizado : https://desafio4dnc.vercel.app/
 
