@@ -45,12 +45,6 @@ Bem-vindo ao meu portfólio! Este projeto foi desenvolvido com o objetivo de apr
 5. Acesse o Projeto:
     [O comando do passo "4" ira disponibilizar o link para acesso](http://localhost:5173/)
 
-### Capturas de Tela
 
-![Print da tela inicial da pagina.](./src/assets/Tela-inicial.png)
-    
-![Print da tela onde estão apresentados os projetos.](./src/assets/Tela-de-projetos.png)
-
-![Print da tela com a timeline sobre mim e footer.](./src/assets/Tela-Sobre-Min.png)
 
 
